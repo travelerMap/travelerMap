@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+
+this repository is part of a project developed by students Thiago, Jonatas, Ryan, Daniel and Caio Bispo.
+
+<h3> * Status *</h3>
+
+em construção!!!
 
 <!--
 **travelerMap/travelerMap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
